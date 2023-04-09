@@ -1,0 +1,7 @@
+{
+  "short_name": "EuroBudget",
+  "name": "EuroBudget: Track our food $",
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
