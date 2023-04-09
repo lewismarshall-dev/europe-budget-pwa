@@ -1,0 +1,663 @@
+[
+  {
+    "date": "20230506",
+    "code": "A",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "budget": 81,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230507",
+    "code": "A",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "budget": 81,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230508",
+    "code": "A",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "budget": 81,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230509",
+    "code": "L",
+    "city": "London",
+    "country": "United Kingdom",
+    "budget": 67.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230510",
+    "code": "L",
+    "city": "London",
+    "country": "United Kingdom",
+    "budget": 67.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230511",
+    "code": "L",
+    "city": "London",
+    "country": "United Kingdom",
+    "budget": 67.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230512",
+    "code": "L",
+    "city": "London",
+    "country": "United Kingdom",
+    "budget": 67.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230513",
+    "code": "L",
+    "city": "London",
+    "country": "United Kingdom",
+    "budget": 67.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230514",
+    "code": "S",
+    "city": "Seville",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230515",
+    "code": "S",
+    "city": "Seville",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230516",
+    "code": "S",
+    "city": "Seville",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230517",
+    "code": "S",
+    "city": "Seville",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230518",
+    "code": "G",
+    "city": "Granada",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230519",
+    "code": "G",
+    "city": "Granada",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230520",
+    "code": "G",
+    "city": "Granada",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230521",
+    "code": "B",
+    "city": "Barcelona",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230522",
+    "code": "B",
+    "city": "Barcelona",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230523",
+    "code": "B",
+    "city": "Barcelona",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230524",
+    "code": "B",
+    "city": "Barcelona",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230525",
+    "code": "B",
+    "city": "Barcelona",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230526",
+    "code": "B",
+    "city": "Barcelona",
+    "country": "Spain",
+    "budget": 71.1,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230527",
+    "code": "P",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "budget": 46.12,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230528",
+    "code": "P",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "budget": 46.12,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230529",
+    "code": "P",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "budget": 46.12,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230530",
+    "code": "P",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "budget": 46.12,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230531",
+    "code": "BO",
+    "city": "Murren",
+    "country": "Switzerland",
+    "budget": 82.74,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230601",
+    "code": "BO",
+    "city": "Murren",
+    "country": "Switzerland",
+    "budget": 82.74,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230602",
+    "code": "BO",
+    "city": "Murren",
+    "country": "Switzerland",
+    "budget": 82.74,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230603",
+    "code": "BO",
+    "city": "Interlaken",
+    "country": "Switzerland",
+    "budget": 82.74,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230604",
+    "code": "Mi",
+    "city": "Milan",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230605",
+    "code": "CT",
+    "city": "Vernazza",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230606",
+    "code": "CT",
+    "city": "Vernazza",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230607",
+    "code": "CT",
+    "city": "Vernazza",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230608",
+    "code": "F",
+    "city": "Florence",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230609",
+    "code": "F",
+    "city": "Florence",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230610",
+    "code": "F",
+    "city": "Florence",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230611",
+    "code": "F",
+    "city": "Florence",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230612",
+    "code": "F",
+    "city": "Florence",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230613",
+    "code": "T",
+    "city": "Tuscany",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230614",
+    "code": "T",
+    "city": "Tuscany",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230615",
+    "code": "T",
+    "city": "Tuscany",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230616",
+    "code": "T",
+    "city": "Tuscany",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230617",
+    "code": "T",
+    "city": "Tuscany",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+
+  {
+    "date": "20230618",
+    "code": "R",
+    "city": "Rome",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230619",
+    "code": "R",
+    "city": "Rome",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230620",
+    "code": "R",
+    "city": "Rome",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230621",
+    "code": "R",
+    "city": "Rome",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230622",
+    "code": "R",
+    "city": "Rome",
+    "country": "Italy",
+    "budget": 58.5,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230623",
+    "code": "PL",
+    "city": "Plitvice Lakes NP",
+    "country": "Croatia",
+    "budget": 41.85,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230624",
+    "code": "IH",
+    "city": "Dalmation Coast",
+    "country": "Croatia",
+    "budget": 41.85,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230625",
+    "code": "IH",
+    "city": "Dalmation Coast",
+    "country": "Croatia",
+    "budget": 41.85,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230626",
+    "code": "IH",
+    "city": "Dalmation Coast",
+    "country": "Croatia",
+    "budget": 41.85,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230627",
+    "code": "IH",
+    "city": "Dalmation Coast",
+    "country": "Croatia",
+    "budget": 41.85,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230628",
+    "code": "IH",
+    "city": "Dalmation Coast",
+    "country": "Croatia",
+    "budget": 41.85,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230629",
+    "code": "IH",
+    "city": "Dalmation Coast",
+    "country": "Croatia",
+    "budget": 41.85,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230630",
+    "code": "D",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "budget": 55.8,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230701",
+    "code": "D",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "budget": 55.8,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230702",
+    "code": "D",
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "budget": 55.8,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230703",
+    "code": "Mo",
+    "city": "Mostar",
+    "country": "Bosnia & Herzegovina",
+    "budget": 45.72,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230704",
+    "code": "Mo",
+    "city": "Mostar",
+    "country": "Bosnia & Herzegovina",
+    "budget": 45.72,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230705",
+    "code": "I",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "budget": 17.94,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230706",
+    "code": "I",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "budget": 17.94,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230707",
+    "code": "I",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "budget": 17.94,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230708",
+    "code": "I",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "budget": 17.94,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230709",
+    "code": "I",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "budget": 17.94,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  },
+  {
+    "date": "20230710",
+    "code": "I",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "budget": 17.94,
+    "actual": 0,
+    "diff": 0,
+    "transactions": []
+  }
+]
